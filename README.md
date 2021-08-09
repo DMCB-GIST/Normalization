@@ -1,6 +1,7 @@
 # Re-ranking system with BERT for biomedical concept normalization
 
 Abstract
+
 In recent years, various neural network architectures have been successfully applied to natural language processing (NLP) tasks such as named entity normalization.
 Named entity normalization is a fundamental task for extracting information in free text, which aims to map entity mentions in a text to gold standard entities in a given domain-specific ontology; however, the normalization task in the biomedical domain is still challenging 
 because of multiple synonyms, various acronyms, and numerous lexical variations.
