@@ -11,3 +11,15 @@ Among five different biomedical benchmark corpora, our experimental results show
 ----
 
 Data
+
+- NCBI disease corpus
+
+Doğan RI, Leaman R, Lu Z. NCBI disease corpus: a resource for disease name recognition and concept normalization. J Biomed Inform. 2014 Feb;47:1-10. doi: 10.1016/j.jbi.2013.12.006. Epub 2014 Jan 3. PMID: 24393765; PMCID: PMC3951655.
+
+https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/
+
+- Biocreative V CDR corpus
+
+Li J, Sun Y, Johnson RJ, Sciaky D, Wei CH, Leaman R, Davis AP, Mattingly CJ, Wiegers TC, Lu Z. BioCreative V CDR task corpus: a resource for chemical disease relation extraction. Database (Oxford). 2016 May 9;2016:baw068. doi: 10.1093/database/baw068. PMID: 27161011; PMCID: PMC4860626.
+
+http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/.
