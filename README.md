@@ -6,7 +6,7 @@ In recent years, various neural network architectures have been successfully app
 Named entity normalization is a fundamental task for extracting information in free text, which aims to map entity mentions in a text to gold standard entities in a given domain-specific ontology; however, the normalization task in the biomedical domain is still challenging 
 because of multiple synonyms, various acronyms, and numerous lexical variations.
 In this study, we regard the task of biomedical entity normalization as a ranking problem, and propose an approach to rank normalized concepts. We additionally employ two factors that can notably affect the performance of normalization, such as task-specific pre-training (Task-PT) and calibration approach. 
-Among five different biomedical benchmark corpora, our experimental results show that our proposed model achieved significant improvements over the previous methods and advanced the state-of-the-art performance for biomedical entity normalization, with up to 0.5\% increase in accuracy and 1.2\% increase in F-score.
+Among five different biomedical benchmark corpora, our experimental results show that our proposed model achieved significant improvements over the previous methods and advanced the state-of-the-art performance for biomedical entity normalization, with up to 0.5% increase in accuracy and 1.2% increase in F-score.
 
 
 ## Data
@@ -23,5 +23,5 @@ Among five different biomedical benchmark corpora, our experimental results show
 - https://biocreative.bioinformatics.udel.edu/tasks/biocreative-ii/task-1b-human-gene-normalizati/
 
 **Plant corpus**
-- Cho, H., Choi, W. & Lee, H. A method for named entity normalization in biomedical articles: application to diseases and plants. BMC Bioinformatics 18, 451 (2017). https://doi.org/10.1186/s12859-017-1857-8
+- Cho, H., Choi, W. & Lee, H. A method for named entity normalization in biomedical articles: application to diseases and plants. BMC Bioinformatics 18, 451 (2017). doi:10.1186/s12859-017-1857-8.
 - http://gcancer.org/plant
