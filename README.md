@@ -18,7 +18,7 @@ Among five different biomedical benchmark corpora, our experimental results show
 - Li J, Sun Y, Johnson RJ, Sciaky D, Wei CH, Leaman R, Davis AP, Mattingly CJ, Wiegers TC, Lu Z. BioCreative V CDR task corpus: a resource for chemical disease relation extraction. Database (Oxford). 2016 May 9;2016:baw068. doi: 10.1093/database/baw068. PMID: 27161011; PMCID: PMC4860626.
 - http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/.
 
-**BioCreative II gene mention recognition corpus**
+**BioCreative II human gene normalization corpus**
 - Smith L, Tanabe LK, Ando RJ, et al. Overview of BioCreative II gene mention recognition. Genome Biol. 2008;9 Suppl 2(Suppl 2):S2. doi:10.1186/gb-2008-9-s2-s2
 - https://biocreative.bioinformatics.udel.edu/tasks/biocreative-ii/task-1b-human-gene-normalizati/
 
