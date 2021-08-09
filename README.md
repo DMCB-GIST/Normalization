@@ -31,5 +31,5 @@ Among five different biomedical benchmark corpora, our experimental results show
 
 
 ## Contact
-- First author: Hyejin Cho (heyjin@gist.ac.kr)
+//- First author: Hyejin Cho (heyjin@gist.ac.kr)
 - Corresponding author: Hyunju Lee (hyunjulee@gist.ac.kr)
