@@ -8,6 +8,9 @@ because of multiple synonyms, various acronyms, and numerous lexical variations.
 In this study, we regard the task of biomedical entity normalization as a ranking problem, and propose an approach to rank normalized concepts. We additionally employ two factors that can notably affect the performance of normalization, such as task-specific pre-training (Task-PT) and calibration approach. 
 Among five different biomedical benchmark corpora, our experimental results show that our proposed model achieved significant improvements over the previous methods and advanced the state-of-the-art performance for biomedical entity normalization, with up to 0.5% increase in accuracy and 1.2% increase in F-score.
 
+## Architecture
+https://user-images.githubusercontent.com/88476469/128655625-6a165da4-c2b5-4a2f-95cc-e7cd39f84470.jpg
+
 
 ## Data
 **NCBI disease corpus**
