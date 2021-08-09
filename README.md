@@ -28,3 +28,8 @@ Among five different biomedical benchmark corpora, our experimental results show
 **Plant corpus**
 - Cho, H., Choi, W. & Lee, H. A method for named entity normalization in biomedical articles: application to diseases and plants. BMC Bioinformatics 18, 451 (2017). doi:10.1186/s12859-017-1857-8.
 - http://gcancer.org/plant
+
+
+## Contact
+- First author: Hyejin Cho (heyjin@gist.ac.kr)
+- Corresponding author: Hyunju Lee (hyunjulee@gist.ac.kr)
