@@ -13,7 +13,9 @@ Among five different biomedical benchmark corpora, our experimental results show
 Data
 
 - NCBI disease corpus
+
 -- Doğan RI, Leaman R, Lu Z. NCBI disease corpus: a resource for disease name recognition and concept normalization. J Biomed Inform. 2014 Feb;47:1-10. doi: 10.1016/j.jbi.2013.12.006. Epub 2014 Jan 3. PMID: 24393765; PMCID: PMC3951655.
+
 -- https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/
 
 - Biocreative V CDR corpus
